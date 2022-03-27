@@ -1,0 +1,13 @@
+img{ background-color: rgb(233, 201, 152);}
+img:hover{ background-color: rgb(58, 41, 212); }
+body{
+    background-color: #EAF6F6;}
+h1{color:rgb(50, 50, 168);}
+h3{color: rgba(235, 22, 111, 0.959);}
+
+
+
+hr{
+    border-style: none;
+border-color: grey;
+}
